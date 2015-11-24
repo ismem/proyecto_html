@@ -1,0 +1,50 @@
+body{
+	background: #;
+}
+
+.contenedor {
+	width: 900px;
+	margin: 0 auto;
+}
+.header {
+	background: red;
+}
+.slider {
+	height: 350px;
+	background: blue;
+}
+.cuerpo {
+	background: yellow;
+}
+.footer {
+	height: 200px;
+	background: blue;
+}
+.left, .right {
+	width: 250px;
+	background: r;
+	height: 500px;
+	float: left;
+}
+.center {
+	width: 400px;
+	background: silver;
+	height: 500px;
+	float: left;
+}
+
+.menu{
+	padding-left: 0px;
+
+}
+.menu li{
+	display: inline-block;
+	padding: 8px  36px;
+	border: 1px solid #000;
+	font-size: 24px;
+	background: #A73D95;
+}
+.menu li a {
+	color: white;
+	text-decoration: none;
+}
