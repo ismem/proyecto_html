@@ -1,5 +1,5 @@
 body{
-	background: #;
+	background: #dedede;
 }
 
 .contenedor {
@@ -47,4 +47,7 @@ body{
 .menu li a {
 	color: white;
 	text-decoration: none;
+}
+h2 {
+	background: orange;
 }
